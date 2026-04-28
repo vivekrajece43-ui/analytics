@@ -1,0 +1,1 @@
+select claim_id, member_id from healthcare_db.claims_schema.claim 
